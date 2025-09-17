@@ -31,7 +31,30 @@ The dataset used for this analysis is publicly available on [Kaggle](https://www
 2. Open it with **Power BI Desktop**.  
 3. Connect the data and explore the dashboards interactively.  
 
----    ------------------------------------ -------------------------------- ---------------------------------- -By Ahcene Abdous
+---
 
-## 📌 Purpose  
-This project demonstrates the application of **Power BI in healthcare analytics** by turning raw data into actionable insights.  
+## 📸 Preview  
+
+Here are some snapshots of the Power BI report:  
+
+![Dashboard Overview](images/1_Home.png)  
+*Main report overview*  
+<img width="1092" height="614" alt="1_Home" src="https://github.com/user-attachments/assets/6fdef772-d498-47e8-90e6-c8f9d45fe4ed" />
+
+![Patient Billing by Age Groupe, Gender and Insurance](images/2_Billing_medic_cond.png)  
+*Hospitals Billing*  
+
+<img width="1090" height="610" alt="2_Billing_medic_cond" src="https://github.com/user-attachments/assets/d9e55c58-50d9-478c-9798-c0f515a3f07f" />
+
+![Cost Analysis](images/6_Billing_ins.png)  
+*Billing by age group of patients and insurance provider*  
+ 
+ <img width="1090" height="612" alt="6_Billing_ins" src="https://github.com/user-attachments/assets/e77b30a4-b6e6-472d-aae7-3993b88334c4" />
+
+
+![Cost Analysis](images/9_Medical_cond.png) 
+*Summary of Patients by medical conditions*
+<img width="1090" height="608" alt="9_Medical_cond" src="https://github.com/user-attachments/assets/04984576-1cd3-4396-ad81-b92342818e72" />
+
+-------------- -- -        
+- - - - - - -  - - - - - - - - - - - - --  -- -  - - -By Ahcene Abdous ---------------------------------
